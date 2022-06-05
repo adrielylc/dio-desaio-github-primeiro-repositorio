@@ -1,0 +1,20 @@
+# Comandos no CMD (Prompt de Comando)
+
+### Atalhos utilizáveis
+
+- atalho tab -> preenche automaticamente as informações no cmd (por exemplo nome de pasta complexas)
+- atalho seta para cima -> lista os históricos de informações que foi utilizado no cmd
+
+
+
+### Comandos utilizáveis
+
+- dir -> listar os diretórios na pasta 
+- cd / "nome da pasta" -> para acessar uma pasta especifica
+- cd.. -> voltar para a pasta anterior (voltar um nível)
+- cls -> limpar os dados do cmd
+- mkdir "nome da pasta para cria-la" -> criar uma pasta e colocar o seu nome
+- echo "nome do arquivo e a sua extensão" -> criar um arquivo (se quiser colocar alguma informação dentro do arquivo, tem que colocar por exemplo "echo ola > ola.txt" ai terá a informação ola dentro do arquivo ola.txt)
+- del "nome da pasta" -> exclui todos os arquivos dentro da pasta
+- rmdir "nome da pasta" /s /q -> exclui todas os arquivos e a pasta informada
+- mv "nome do arquivo" ./"caminho da pasta" -> transferir um arquivo para uma pasta especifica

@@ -1,0 +1,28 @@
+### **O <u>Git Bash</u> é um terminal estendido para otimizar o uso do Git.**
+
+:arrow_right: <u>Link para download do Git: https://git.scm.com/downloads</u>
+
+
+
+#### Atalhos utilizáveis:
+
+- atalho do botão direito do mouse -> selecionar para abrir o git bash no diretório que deseja realizar os comandos
+- atalho seta para cima -> lista os históricos de informações que foi utilizado do git
+
+
+
+#### Comandos utilizáveis:
+
+- openssl sha1 "nome do arquivo"-> gera uma chave criptografada de 40 caracteres do arquivo criptografado
+- se uma pasta possuir o nome composto -> colocar o caminho dela dentro de "aspas"
+- ls ou dir -> listar os arquivos dentro da pasta
+- cat "nome do arquivo"->  comando especial para visualizar o conteúdo do arquivo
+- pwd -> mostra o caminho da pasta em que esta visualizando
+- git init -> inicia um repositório 
+- git status -> verifica status do código, se falta comitar ou não 
+- git add * -> adiciona as informações para realizar o commit pelo código (git commit -m "")
+- git commit -m "informação sobre a alteração do código" -> comitar o arquivo e adicionar as informações no GitHub
+- git push origin master/main -> enviar o código que esta na maquina para o GitHub (o site)
+- git pull origin master/main -> pega o conteúdo que esta no GitHub e lança o arquivo na maquina
+- git clone (mais o link do repositório GitHub) -> para clonar um repositório de outra pessoa no GitHub
+- git remote -v -> mostra o caminho que originou o repositório clonado
